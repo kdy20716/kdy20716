@@ -48,16 +48,17 @@
 
 ---
 
-## 📈 나의 활동 통계 (My Stats)<p align="center">
+## 📈 나의 활동 통계 (My Stats)
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kdy20716&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Doyeon's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kdy20716&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<br><br>
+<br>
 
 <p align="left">
-<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=kdy20716&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdy20716&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
