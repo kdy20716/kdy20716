@@ -9,7 +9,7 @@
 ## 🌐 포트폴리오 사이트 바로가기
 현재 GitHub Pages를 통해 제가 개발한 웹 게임들을 배포하고 있습니다. 아래 링크에서 직접 플레이해보세요!
 
-### 👉 [**김도연의 웹 게임 포트폴리오**](https://kdy20716-droid.github.io/)
+### 👉 [**김도연의 웹 게임 포트폴리오**](https://kdy20716.github.io/)
 
 ---
 
@@ -51,13 +51,13 @@
 ## 📈 나의 활동 통계 (My Stats)<p align="center">
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kdy20716-droid&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Doyeon's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kdy20716&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Doyeon's GitHub Stats" />
 </p>
 
 <br><br>
 
 <p align="left">
-<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=kdy20716-droid&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" /></p>
+<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=kdy20716&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" /></p>
 
 ---
 
@@ -65,6 +65,6 @@
 
 * 🎂 **생일**: 2002년생 07월 16일
 * 🕹️ **관심 분야**: 게임 개발자, UI/UX 디자인
-* 💻 **GitHub**: [kdy20716-droid](https://github.com/kdy20716-droid)
+* 💻 **GitHub**: [kdy20716](https://github.com/kdy20716)
 
 ---
